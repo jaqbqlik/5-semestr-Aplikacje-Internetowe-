@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da37c522-e757-4bfb-b623-9e7b7a3e747d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lab1/materialy/.~lock.AI1-L1-gr330B-Kulik-Jakub.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/materialy/AI1-L1-gr330B-Kulik-Jakub.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/materialy/AI1-L1-gr330B-Kulik-Jakub.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/style-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/style-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/zadanie/style-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/style-2.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP (1)" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33vK8c2NXOyIypVbc7lerZfHx6s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;I:/semestr5/Aplikacje&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\semestr5\Aplikacje\lab1\zadanie" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\semestr5\Aplikacje\lab-b\zadanie" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PS-252.25557.128" />
+        <option value="bundled-php-predefined-a98d8de5180a-ce40d0652d34-com.jetbrains.php.sharedIndexes-PS-252.25557.128" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da37c522-e757-4bfb-b623-9e7b7a3e747d" name="Changes" comment="" />
+      <created>1760191950256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760191950256</updated>
+      <workItem from="1760191951236" duration="1806000" />
+      <workItem from="1760198634449" duration="19000" />
+      <workItem from="1760459637370" duration="6430000" />
+      <workItem from="1760469004198" duration="2873000" />
+      <workItem from="1760637902930" duration="3865000" />
+      <workItem from="1760644542112" duration="13237000" />
+      <workItem from="1760710862905" duration="10872000" />
+      <workItem from="1760879649105" duration="5191000" />
+      <workItem from="1761312273122" duration="1812000" />
+      <workItem from="1761314102886" duration="8000" />
+      <workItem from="1761317249403" duration="4405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
