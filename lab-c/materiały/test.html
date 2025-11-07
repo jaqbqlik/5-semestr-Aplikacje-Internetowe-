@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            padding: 10px;
+        }
+        canvas{
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="robot" width="500" height="500">
+
+    </canvas>
+    <canvas id="robot2" width="500" height="500"> </canvas>
+
+
+    <script>
+        const canvas1 = document.getElementById("robot");
+        const ctx1 = canvas1.getContext("2d");
+
+        let sprite = document.createElement("img");
+        sprite.src = "robot.png";
+
+        sprite.onload = function(){
+            ctx1.drawImage(sprite, 10, 10, 600, 600, 10, 10 , 500, 500);
+
+        }
+
+        // Draw a red rectangle
+        ctx1.fillStyle = "red";
+        ctx1.fillRect(50, 50, 400, 400);
+        ctx1.clearRect(100, 100, 300, 300);
+        ctx1.strokeStyle="blue";
+        ctx1.strokeRect(150, 150, 200, 200);
+
+        ctx1.beginPath();
+        ctx1.moveTo(250, 0);
+        ctx1.lineTo(0, 300);
+        ctx1.lineTo(500, 400);
+        ctx1.closePath();
+        ctx1.fillStyle="yellow";
+        ctx1.strokeStyle="black";
+        ctx1.stroke();
+        ctx1.fill();
+
+        ctx1.clearRect(200, 0, 100, 500);
+
+        const canvas2 = document.getElementById("robot2");
+        const ctx2 = canvas2.getContext("2d");
+
+
+
+
+    </script>
+</body>
+</html>

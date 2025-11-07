@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Mapowe Puzzle – LAB C</title>
+
+    <link rel="stylesheet" href="leaflet-1.7.1/leaflet.css">
+    <script src="leaflet-1.7.1/leaflet-src.js"></script>
+    <script src="leaflet-1.7.1/leaflet-providers.js"></script>
+    <script src="leaflet-1.7.1/leaflet-image.js"></script>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Puzzle Leaflet - kj56646</h1>
+
+<div id="controls">
+    <button id="locBtn">Moja lokalizacja</button>
+    <button id="saveBtn">Pobierz mapę</button>
+</div>
+
+<div id="map"></div>
+<canvas id="rasterMap"></canvas>
+
+<div id="puzzleArea">
+    <div class="puzzle-container">
+        <div class="puzzle-section">
+            <h3>Rozsypane puzzle:</h3>
+            <div id="pieces"></div>
+        </div>
+        <div class="puzzle-section">
+            <h3>Układanka:</h3>
+            <div id="board"></div>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da37c522-e757-4bfb-b623-9e7b7a3e747d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab1/materialy/.~lock.AI1-L1-gr330B-Kulik-Jakub.docx#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/materialy/AI1-L1-gr330B-Kulik-Jakub.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/materialy/AI1-L1-gr330B-Kulik-Jakub.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/images/landscape5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/images/landscape5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/style-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/style-1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/zadanie/style-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab-a/zadanie/style-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-b/materialy/.~lock.AI1-LB-gr330B-Kulik-Jakub.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +44,8 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.main.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.test.html.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -73,6 +66,7 @@
       <recent name="I:\semestr5\Aplikacje\lab1\zadanie" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\semestr5\Aplikacje\lab-c\zadanie" />
       <recent name="I:\semestr5\Aplikacje\lab-b\zadanie" />
     </key>
   </component>
@@ -101,7 +95,14 @@
       <workItem from="1760879649105" duration="5191000" />
       <workItem from="1761312273122" duration="1812000" />
       <workItem from="1761314102886" duration="8000" />
-      <workItem from="1761317249403" duration="4405000" />
+      <workItem from="1761317249403" duration="4955000" />
+      <workItem from="1761378748505" duration="4000" />
+      <workItem from="1761474870306" duration="2875000" />
+      <workItem from="1761477788099" duration="62000" />
+      <workItem from="1761482555035" duration="640000" />
+      <workItem from="1762362531885" duration="3685000" />
+      <workItem from="1762366279428" duration="50000" />
+      <workItem from="1762527733622" duration="1879000" />
     </task>
     <servers />
   </component>
