@@ -1,0 +1,137 @@
+Informacja gdzie możemy dany film/serial znaleźć
+"jest to katalog płyt cd"
+oceny filmów w systemie aplikacji, moderacja ich etc.
+ważny jest dostęp do sekcji aplikacji jako admin (w bazie danych)
+trzymac informacje o tym dostepie jakos w sesji
+nie robić użytkownika, 
+nie robić logowania do strony, za duzo czasu.
+można użyć LLM
+
+Nie jest potrzebna komunikacja z netflixem, hbo itp.
+Filmy magą być zapisywane np w pliku .csv nazwa, rok, kategoria, czas trwania itp
+
+3 kamienie milowe
+nagranie na yt z przebiegu kamienia milowego.
+film ma sie skladac z 3 czesci
+1 czysc to my, co zrobilismy
+2 co system robi
+3 uwazamy ze wykonalismy, co ?
+
+na każde laby:
+
+Analityka do konca roku.
+
+Co może być:
+
+Dzienna rekomendacja, rozróżniane poprzez np: najwięcej ocen dziennie, wyświetleń, najczesciej ogladane/oceniane w tygodniu,
+
+Wylosuj film (zaskocz mnie), np. po kategoriach, rekomendacja na co masz dzis ochote
+
+Nagradzane filmy 
+
+Oflagowanie filmów, obejrzane, ulubione, koszyk?, 
+
+filtry
+
+Grupa:
+
+JA, Martyń Zoń, Damian T.
+
+OPRACOWAC DOKUMENTACJE: 
+
+Specyfikacja wymagań:
+AL1-PROJEKT-grN-SRS-NazwaGrupy etc etc
+
+Kazde zdanie ma cos wnosic nie ma lania wodu, nie uzywaj LLM, 
+
+1. Wprowadzenie 
+opis dokumentu nie systemu
+ten dokument opisuje cos z czyms o czyms
+
+1.2
+opisujemy kursywą cos, grubą czcionką coś ważnego opis danych znaków
+
+1.4 
+Odwołania np do figmy etc
+
+
+2 opis ogólny
+1-2 zdania
+
+2.2 klasy i uzytkownicy 
+uzytkownik co moze
+admin co moze
+
+2.3
+program nie bedzie wdrozony 
+
+2.4
+kopiuj z team AL1-Projekt-siwz-plusflix
+
+3.1
+katalog 
+
+3.1.1 przeglądanie  wyszukiwanie filmów priorytet najwyższy
+
+3.1.2 wymagania funkcjonalne
+KAT-1 system powinien miec formularz wyszukiwania filmow po nazwie
+KAT-2 System powienien mieć liste wyników
+KAT-3 System powinien autouzupełniać pełny tytuł filmu po nazwie
+...
+KAT-167L system powinien miec strone z szczegółami 
+KAT-168 system powinien wskazywać platformę na której film jest dostepny 
+
+3.2 Admin
+
+3.2.1 OPIS admin powinien miec mozliwosc zarzadzanai platformami streamingowymi, filmami ocenami w syst. Prioryted wysoki
+
+3.2.2 funkcjonalne
+
+ADM-1 tylko zalogowany ma sie dostac
+...
+ADM-4 ... do zarzadzania
+etc etc
+
+4.1 logiczny model danych
+
+Nie chce bazy danych, kluczy obcych, prywatnych, etc to nie Systemy baz danych
+
+Movie -> kategoria,platforma(jest gdzie),admin(zarzadza),gosc(moze byc),ulubione(gosc wybiera ulubione), komentarz/recenzja(gosc wystawia | Admin moderuje), 
+
+użyć DRAW.IO jakis model logiczny graficzny
+
+4.2 Czy system ma Raporty
+Nie dotyczy, nie trzeba robić
+Przykład raportu, najpopularniejsze filmy w danym tyg. z przewidywaniem prognozy na kolejny, w exelu
+
+4.3 Pozyskiwanie danych
+W sposób manualny, bez komunikacji, dane to dane
+Integralność w bazie danych 
+usuwanie danych, filmy bez streamingu, wyswietlaja sie ale znika miejsce strimingu
+
+5.1 opis, cechy charakterystyczne.
+5.2 nic nie ma być wpisane, bo nie ma integracji
+5.3 intefejs sprzetowy, nic nie wnosi, nie pisac
+5.4 interfejs komunikacyjne, jak system sie komunikujee NIE dotyczt
+np jakies alerty, wysyłanie maila: "twoj film juz jest", etc etc
+
+6.1 nie dotyczy
+6.2 nie pisac czy szybki, dokładne dane, albo olac punkt
+6.3 panel admin ma byc zabezpieczony hasłem, etc
+6.4 wystepuje komunikat np dane magą być niedostępne teraz
+
+7. tylko po angielsku nie dotyczy kek
+
+8. idk
+
+Suplement A: jesli potrzeba
+B: nie trzeba :)
+
+
+
+
+
+
+
+
+
